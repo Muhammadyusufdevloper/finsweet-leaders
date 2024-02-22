@@ -1,0 +1,56 @@
+#events {
+}
+.events__top {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 48px;
+}
+.events__top__title {
+    color: var( --secondary-text);
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 56px;
+}
+.events__top__liner {
+    height: 2px;
+    flex-grow: 1;
+    background-color: #E5E5E5;
+}
+.events__bottom {
+}
+.events__bottom__box {
+    background-color: var();
+}
+.events__box__date {
+}
+.events__box__contents {
+}
+.events__box__contents__sap-title {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.events__box__date {
+}
+.events__box__date__title {
+
+}
+.events__box__date__text {
+}
+.events__box__contents__sap-title__title {
+    color: var(--primary-text);
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+}
+.events__box__contents__sap-title__liner {
+    width:44px;
+    height: 2px;
+    background-color: var(--primary-text);
+}
+.events__box__contents__title {
+}
+.events__btn {
+}
